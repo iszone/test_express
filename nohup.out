@@ -1,0 +1,35 @@
+
+> myapp@0.0.0 start /tmp/myapp
+> node ./bin/www
+
+[0mGET / [36m304 [0m24.518 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m9.013 ms - -[0m
+[0mGET / [36m304 [0m10.536 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.275 ms - -[0m
+[0mGET / [36m304 [0m2.791 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.861 ms - -[0m
+[0mGET / [36m304 [0m3.316 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.936 ms - -[0m
+[0mGET / [36m304 [0m2.193 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.852 ms - -[0m
+[0mGET / [32m200 [0m3.100 ms - 722[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.874 ms - -[0m
+[0mGET / [36m304 [0m2.359 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.772 ms - -[0m
+[0mGET / [36m304 [0m7.197 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.871 ms - -[0m
+[0mGET / [36m304 [0m3.419 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.859 ms - -[0m
+[0mGET / [36m304 [0m2.575 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.767 ms - -[0m
+[0mGET / [36m304 [0m2.237 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.839 ms - -[0m
+[0mGET / [32m200 [0m12.069 ms - 697[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.755 ms - -[0m
+[0mGET / [36m304 [0m3.009 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m6.769 ms - -[0m
+[0mGET / [36m304 [0m7.615 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.758 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m9.516 ms - 796[0m
+[0mGET / [36m304 [0m4.114 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.761 ms - -[0m
